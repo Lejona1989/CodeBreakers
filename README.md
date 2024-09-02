@@ -9,3 +9,5 @@
 Somos los CodeBreakers, pertenecemos al grupo 1704 del curso Programación de video juegos, estamos cursando la carrera de Ingeniería Multimedia y en este curso esperamos desarrollar habilidades de integración entre la programación, la narrativa, el diseño y demás elementos que requiere la creación de juegos interactivos.   
 
 ![Codebreakers](G:/OneDrive/Imágenes/Codebreakers2.jpg)
+
+Henry Cardona: La creación de este repositorio grupal, permite la integración y aplicación de conocimientos, en el marco del dessarollo de videojuegos y proyectos multimediales, haciendo enfasis en explorar las ventajas del trabajo en equipo.
